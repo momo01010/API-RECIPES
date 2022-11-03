@@ -1,4 +1,4 @@
-# SKELETON
+# API-RECIPES
 
 - Express
 - PostgreSQL

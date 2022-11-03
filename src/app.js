@@ -54,6 +54,7 @@ app.use('/api/v1/categories', categoryRouter)
 app.use('/api/v1/recipes', recipeRouter)
 app.use('/api/v1/ingredients', ingredientRouter)
 
+
 app.listen(port, () => {
     console.log(`Server started at port ${port}`)
 })
